@@ -1,7 +1,7 @@
 # Machine-Learning
 Hi All, 
 
-In this respository, I have created a notebook for machine learning.
+In this respository, I have created a documentation for machine learning.
 
 The chapters includes
 1. Linear Modeling for Classification
